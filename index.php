@@ -39,7 +39,7 @@ thumbs.addEventListener("click", function(e) {
 
 <div class="container">
 <div class="second">
-<img src = "images/hero2.png" class="center2"></img>
+<img src = "images/bones.png" class="center2"></img>
 </div>
 
 <div class="row space">
