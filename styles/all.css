@@ -52,7 +52,7 @@ figcaption{
 }
 
 .the_button{
-    background-color: lightblue;
+    /*background-color: lightblue;*/
     color: #0200A3;
     width: 100px;
     height: 30px;
@@ -63,7 +63,7 @@ figcaption{
 }
 
 .the_button2 {
-background-color: lightblue;
+/*background-color: lightblue;*/
 color: #0200A3;
 width: 100px;
 height: 30px;
@@ -157,7 +157,7 @@ margin-top: 20px;
 }
 
 .logo_cite{
-    background-color: lightblue;
+    /*background-color: lightblue;*/
 }
 
 .figcap_logo{
@@ -169,7 +169,7 @@ margin-top: 20px;
 #nav {
     display: inline-flex;
     flex-direction:row;
-    background-color: lightblue;
+    /*background-color: lightblue;*/
     top: 0px;
     width: 2000px;
     z-index: 1;
@@ -178,7 +178,7 @@ margin-top: 20px;
 #nav ul {
     font-size: 20px;
     padding: 35px;
-    background-color: lightblue;
+    /*background-color: lightblue;*/
     text-align: center;
 
 
@@ -194,7 +194,7 @@ margin-top: 20px;
 
 
 #nav a {
-    color:#0200A3;
+    color: #007eb3;
     text-decoration: none;
     font-weight: bold;
     border-style: hidden;
@@ -210,7 +210,8 @@ margin-top: 20px;
     border-radius: 30px;
     border-width: 4px;
     padding: 8px;
-    border-color: #0200A3;
+    border-color: 
+    #007eb3;
   }
 
 
@@ -736,3 +737,10 @@ footer a {
   .fadeIn-top{
     top: 20%;
   }
+
+
+#logo{
+    max-width: 400px;
+    max-height: 200px;
+}
+

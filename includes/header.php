@@ -1,6 +1,6 @@
 <div class="header_back">
 <figure class="logo">
-<img src="images/Forsight_Logo.png" alt="logo" />
+<img id ="logo" src="images/vr_logo.png" alt="logo" />
 
 </figure>
 <nav id='nav'>
