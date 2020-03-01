@@ -23,32 +23,8 @@
       <?php include("includes/header.php"); ?>
 
 
+<h2></h2>
 
-<div class="row">
-<div class="col-sm-6 col-lg-6">
-    <div class="content">
-<div class="content-overlay"></div>
-    <img class="content-image" src = "images/underwater.png" >
-    <div class="content-details fadeIn-bottom">
-        <p class="content-text"><strong>A educational Virtual Reality experience of what makes us who we are:</strong> </br>Our hearts, our brains, and so much more!
-        </p>
-      </div>
-</div>
-</div>
-
-<div class="col-sm-6 col-lg-6">
-    <div class="content">
-<div class="content-overlay"></div>
-    <img class="content-image" src = "images/anatomy3.png" >
-    <div class="content-details fadeIn-bottom">
-        <p class="content-text"><strong>A educational Virtual Reality experience of what makes us who we are:</strong> </br>Our hearts, our brains, and so much more!
-        </p>
-      </div>
-</div>
-</div>
-
-
-</div>
 
 <div class="row space">
     <div class="col">
