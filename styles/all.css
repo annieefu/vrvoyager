@@ -51,6 +51,14 @@ figcaption{
     text-align: center;
 }
 
+.second{
+    text-align: center;
+}
+.center2 {
+    text-align: center;
+    width: 70%;
+}
+
 .the_button{
     /*background-color: lightblue;*/
     color: #0200A3;
@@ -133,6 +141,11 @@ margin-top: 20px;
 }
 
 
+.center{
+    width: 100%;
+    margin: auto;
+}
+
 /* Header  */
 .header_back{
     z-index: 1;
@@ -155,9 +168,7 @@ margin-top: 20px;
     width:100%;
 }
 
-.logo_cite{
-    /*background-color: lightblue;*/
-}
+
 
 .figcap_logo{
     color:white;
@@ -183,11 +194,12 @@ margin-top: 20px;
 }
 
 #nav li {
-    padding: 62px;
+    padding: 52px;
     display: inline;
     text-decoration: none;
 
 }
+
 
 
 
@@ -742,3 +754,59 @@ footer a {
     max-height: 200px;
 }
 
+
+/* Login */
+
+
+.contact-us {
+    background-color: #f8f4e5;
+    padding: 50px 100px;
+    
+    
+    }
+    
+    input {
+    display: block;
+    width: 100%;
+    font-size: 14pt;
+    line-height: 28pt;
+    font-family: "Montserrat";
+    margin-bottom: 28pt;
+    border: none;
+    border-bottom: 2px solid black;
+    background: #f8f4e5;
+    min-width: 250px;
+    padding-left: 5px;
+    outline: none;
+    color: black;
+    }
+    
+    
+    button {
+    letter-spacing: 2px;
+    transition: 0.2s all ease-in-out;
+    outline: none;
+    border: 1px solid black;
+    
+    }
+    button:hover {
+    background: black;
+    color: white;
+    border: 1px solid black;
+    }
+    
+    ::selection {
+    background: #ffc8ff;
+    }
+    
+    input:-webkit-autofill,
+    input:-webkit-autofill:hover,
+    input:-webkit-autofill:focus {
+    border-bottom: 5px solid #95a4ff;
+    
+    -webkit-box-shadow: 0 0 0px 1000px #f8f4e5 inset;
+    transition: background-color 5000s ease-in-out 0s;
+    }
+
+
+    
