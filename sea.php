@@ -26,6 +26,7 @@
    <?php include("includes/header.php"); ?>
 
 
+   <iframe src="https://player.vimeo.com/video/394777280" class="center" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 <img src ="images/seathumb.png" class="center"></img>
 
